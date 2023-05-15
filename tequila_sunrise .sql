@@ -139,10 +139,6 @@ INSERT INTO `ulaznica` (`id_ulaznice`, `broj_reda`, `broj_mesta`, `tip_mesta`, `
 (2, 6, 2, 'VIP', 'Travis Scott'),
 (29, 3, 5, 'VIP', 'The Weeknd'),
 (31, 3, 5, 'VIP', 'The Weeknd'),
-(32, 0, 0, '', ''),
-(33, 0, 0, '', ''),
-(34, 0, 0, '', ''),
-(35, 0, 0, '', ''),
 (36, 1, 1, 'Fan-pit', 'Duran Duran');
 
 --
